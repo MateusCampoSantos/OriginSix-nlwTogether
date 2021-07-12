@@ -1,0 +1,29 @@
+/*Reset*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  font-size: 62.5%;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+#header{
+  height: 7.2rem;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+.container{
+  width: 100%;
+  margin-left: 2.4rem;
+  margin-right: 2.4rem;
+}
