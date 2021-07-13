@@ -6,6 +6,10 @@
   text-decoration: none;
   border: none;
 }
+
+ul{
+  list-style: none;
+}
 /*Variables*/
 :root{
   --header-height: 4.5rem;
