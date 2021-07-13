@@ -114,6 +114,14 @@ nav ul li{
   text-align: center;
 }
 
+nav ul li a{
+  transition: color 0.2s;
+}
+
+nav ul li a:hover{
+  color: var(--base-color);
+}
+
 nav .menu{
   opacity: 0;
   visibility: hidden;
