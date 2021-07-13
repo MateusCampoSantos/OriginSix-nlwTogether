@@ -9,7 +9,7 @@
 /*Variables*/
 :root{
   --header-height: 4.5rem;
-
+  /*Cor padrão do site*/
   --hue: 159;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 36% 57%);
