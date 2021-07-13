@@ -253,7 +253,7 @@ nav.show div.icon-close{
 
 /*About*/
 #about{
-  overflow: hidden;
+  background: white;
 }
 
 #about .container{
