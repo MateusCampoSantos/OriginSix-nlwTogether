@@ -214,13 +214,16 @@ nav .icon-close{
   opacity: 0;
 
   position: absolute;
+  top: -1.5rem;
   right: 1.5rem;
 
+  transition: 0.2s;
 }
 
 nav.show div.icon-close{
   visibility: visible;
   opacity: 1;
+  top: 1.5rem;
 }
 
 /*Home*/
